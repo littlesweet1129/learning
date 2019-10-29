@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/teresazhang/github/public/learning/work_space/mlflow/mlruns/0/6bbf5b76e50d400f9a45a0c0b03ce64e/artifacts
+end_time: 1571177699416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 6bbf5b76e50d400f9a45a0c0b03ce64e
+run_uuid: 6bbf5b76e50d400f9a45a0c0b03ce64e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1571177699303
+status: 3
+tags: []
+user_id: teresazhang
