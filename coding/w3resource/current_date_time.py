@@ -1,5 +1,15 @@
+# Write a Python program to display the current date and time
 import datetime as dt
-def current_date_time():
-    return dt.datetime.day()
+# to get current date: dt.date.today()
+# to get current date time: dt.datetime.now()
+# once object is created, format with .strftime()
+class Current():
+    def __init__(self):
+        pass
+    def get_date_time(self):
+        now = dt.datetime.now()
+        print('Current date and time: ')
+        print(now.strftime("%Y-%m-%d %H:%M:%S"))
 
-current_date_time()
+current = Current()
+current.get_date_time()
