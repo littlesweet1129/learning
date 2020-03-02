@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# vscode
+.vscode/
+
+# ipynb_checkpoints
+.ipynb_checkpoinits/
+
+# DS_store
+.DS_store
